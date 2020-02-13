@@ -7,7 +7,7 @@ The goal of this project is to teach myself how express.js works. This is not so
 
 ## License
 
-This project is unlicensed under the UNLICENCE Licence - see the [LICENSE.md](./LICENSE.md) file or
+This project is unlicensed under the UNLICENCE Licence - see the [LICENSE](./LICENSE) file or
 [here](https://unlicense.org) for details.
 
 ## Acknowledgements
