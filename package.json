@@ -1,0 +1,27 @@
+{
+  "name": "learning-expressjs",
+  "version": "1.0.0",
+  "description": "The goal of this project is to teach me how express.js works. This is not something you should deploy, ever.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotiheranbnach/learning-expressjs.git"
+  },
+  "keywords": [
+    "learning",
+    "expressjs",
+    "jotiheranbnach"
+  ],
+  "author": "Johann Tierbach",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jotiheranbnach/learning-expressjs/issues"
+  },
+  "homepage": "https://github.com/jotiheranbnach/learning-expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
