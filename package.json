@@ -1,7 +1,7 @@
 {
   "name": "learning-expressjs",
   "version": "1.0.0",
-  "description": "The goal of this project is to teach me how express.js works. This is not something you should deploy, ever.",
+  "description": "The goal of this project is to teach myself how express.js works. This is not something you should deploy, ever..",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
